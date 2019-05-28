@@ -1,4 +1,4 @@
-def using_while(num)
+def using_while 6..10
 while 	using_while > 10
 using_while +=1
 puts 'Wingardium Leviosa' 
